@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterctringify",
+        "uuid": 10436274,
+        "checksum": "6igkhk"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
